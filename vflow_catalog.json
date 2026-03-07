@@ -1,28 +1,29 @@
 {
+    "manager_version": "1.0.0",
     "tools": [
         {
             "name": "SmartExporter",
             "description": "Maya Sanity Check & FBX Export Tool",
-            "product_id": "smartexporter_product_id",
-            "latest_version": "0.1.1",
-            "doc_url": "https://yourwebsite.com/docs/smartexporter",
-            "store_url": "https://yoursite.gumroad.com/l/smartexporter"
+            "product_id": "rPVTK27yAzm5XF8mmlrOUg==",
+            "latest_version": "0.1.0",
+            "doc_url": "https://pravel3d.com/docs/smartexporter",
+            "store_url": "https://pravel3d.gumroad.com/l/smartexporter"
         },
         {
             "name": "ModelChecker",
             "description": "Automated geometry checking for production",
             "product_id": "modelchecker_id",
-            "latest_version": "1.0.1",
-            "doc_url": "https://yourwebsite.com/docs/modelchecker",
-            "store_url": "https://yoursite.gumroad.com/l/modelchecker"
+            "latest_version": "1.0.0",
+            "doc_url": "https://pravel3d.com/docs/modelchecker",
+            "store_url": "https://pravel3d.gumroad.com/l/modelchecker"
         },
         {
             "name": "EasyRenamer",
             "description": "Batch renamer for Maya nodes with smart prefixes",
             "product_id": "easyrenamer_id",
             "latest_version": "1.0.0",
-            "doc_url": "https://yourwebsite.com/docs/easyrenamer",
-            "store_url": "https://yoursite.gumroad.com/l/easyrenamer"
+            "doc_url": "https://pravel3d.com/docs/easyrenamer",
+            "store_url": "https://pravel3d.gumroad.com/l/easyrenamer"
         }
     ]
 }
