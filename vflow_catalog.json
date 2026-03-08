@@ -3,7 +3,7 @@
     "tools": [
         {
             "name": "SmartExporter",
-            "description": "Maya Sanity Check & FBX Export Tool",
+            "description": "SmartExporter & FBX Export Tool",
             "product_id": "rPVTK27yAzm5XF8mmlrOUg==",
             "latest_version": "0.1.0",
             "doc_url": "https://pravel3d.com/docs/smartexporter",
