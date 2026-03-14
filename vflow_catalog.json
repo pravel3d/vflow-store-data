@@ -8,22 +8,6 @@
             "latest_version": "0.1.0",
             "doc_url": "https://pravel3d.com/docs/smartexporter",
             "store_url": "https://pravel3d.gumroad.com/l/smartexporter"
-        },
-        {
-            "name": "ModelChecker",
-            "description": "Automated geometry checking for production",
-            "product_id": "modelchecker_id",
-            "latest_version": "1.0.0",
-            "doc_url": "https://pravel3d.com/docs/modelchecker",
-            "store_url": "https://pravel3d.gumroad.com/l/modelchecker"
-        },
-        {
-            "name": "EasyRenamer AA",
-            "description": "Batch renamer for Maya nodes with smart prefixes",
-            "product_id": "easyrenamer_id",
-            "latest_version": "1.0.0",
-            "doc_url": "https://pravel3d.com/docs/easyrenamer",
-            "store_url": "https://pravel3d.gumroad.com/l/easyrenamer"
         }
     ]
 }
