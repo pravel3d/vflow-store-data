@@ -7,7 +7,7 @@
     "tools": [
         {
             "name": "SmartExporter",
-            "description": "SmartExporter & FBX Export Tool",
+            "description": "Model Verification & Smart FBX Exporter (Sanity Checks)",
             "product_id": "rPVTK27yAzm5XF8mmlrOUg==",
             "latest_version": "1.0.0",
             "doc_url": "https://bolero-r.notion.site/SmartExporter-Guide-32be05fa786b8047977ac9e77ae8b010",
