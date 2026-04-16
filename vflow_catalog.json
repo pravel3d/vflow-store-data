@@ -13,6 +13,15 @@
             "doc_url": "https://v-flow.notion.site/SmartExporter-Guide-32be05fa786b8047977ac9e77ae8b010",
             "local_doc": "VFlow_Documentation/SmartExporter Guide 32be05fa786b8047977ac9e77ae8b010.html",
             "store_url": "https://pravel3d.gumroad.com/l/smartexporter"
+        },
+        {
+            "name": "TEST",
+            "description": "Model Verification & Smart FBX Exporter (Sanity Checks)",
+            "product_id": "aa",
+            "latest_version": "1.0.0",
+            "doc_url": "https://v-flow.notion.site/SmartExporter-Guide-32be05fa786b8047977ac9e77ae8b010",
+            "local_doc": "VFlow_Documentation/SmartExporter Guide 32be05fa786b8047977ac9e77ae8b010.html",
+            "store_url": "https://pravel3d.gumroad.com/l/smartexporter"
         }
     ]
 }
