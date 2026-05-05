@@ -12,16 +12,16 @@
             "latest_version": "1.0.0",
             "doc_url": "https://v-flow.notion.site/SmartExporter-Guide-32be05fa786b8047977ac9e77ae8b010",
             "local_doc": "VFlow_Documentation/SmartExporter Guide 32be05fa786b8047977ac9e77ae8b010.html",
-            "store_url": "https://pravel3d.gumroad.com/l/smartexporter"
+            "store_url": "https://pravel.gumroad.com/l/vflow-smartexporter"
         },
         {
             "name": "Renamer",
-            "description": "Test Tool — Freemium / Pro Feature Gating Demo",
+            "description": "Batch renaming tool with prefix, suffix, and search & replace management.",
             "product_id": "0iLsmcoDOubP1QYUfrJACg==",
-            "latest_version": "0.1.0",
+            "latest_version": "1.0.0",
             "doc_url": "https://v-flow.notion.site",
             "local_doc": "",
-            "store_url": "https://pravel3d.gumroad.com/"
+            "store_url": "https://pravel.gumroad.com/l/vflow-renamer"
         }
     ]
 }
