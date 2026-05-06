@@ -16,11 +16,11 @@
         },
         {
             "name": "Renamer",
-            "description": "Batch renaming tool with prefix, suffix, and search & replace management.",
+            "description": "Batch renaming tool",
             "product_id": "0iLsmcoDOubP1QYUfrJACg==",
             "latest_version": "1.0.0",
-            "doc_url": "https://v-flow.notion.site",
-            "local_doc": "",
+            "doc_url": "https://v-flow.notion.site/Renamer-Guide-358e05fa786b8010b179d37145e07b99",
+            "local_doc": "VFlow_Documentation/Renamer Guide 358e05fa786b8010b179d37145e07b99.html",
             "store_url": "https://pravel.gumroad.com/l/vflow-renamer"
         }
     ]
